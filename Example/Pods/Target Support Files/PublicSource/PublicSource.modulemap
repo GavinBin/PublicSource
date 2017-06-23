@@ -1,6 +1,0 @@
-framework module PublicSource {
-  umbrella header "PublicSource-umbrella.h"
-
-  export *
-  module * { export * }
-}
