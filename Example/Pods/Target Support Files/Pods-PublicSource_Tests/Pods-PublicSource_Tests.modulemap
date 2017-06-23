@@ -1,0 +1,6 @@
+framework module Pods_PublicSource_Tests {
+  umbrella header "Pods-PublicSource_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

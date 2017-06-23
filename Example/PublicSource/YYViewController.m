@@ -7,7 +7,7 @@
 //
 
 #import "YYViewController.h"
-
+#import "Define.h"
 @interface YYViewController ()
 
 @end
@@ -17,7 +17,12 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+
+    
+    NSLog(@"%f",IPHONE_WIDTH);
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning

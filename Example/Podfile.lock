@@ -1,0 +1,16 @@
+PODS:
+  - PublicSource (0.1.0)
+
+DEPENDENCIES:
+  - PublicSource (from `../`)
+
+EXTERNAL SOURCES:
+  PublicSource:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PublicSource: b2857da268c77176cee145ee4f12dcf33f7bc30b
+
+PODFILE CHECKSUM: 4a81441a0b5f5437e7c85e3e8b30e1a98b371654
+
+COCOAPODS: 1.2.1
