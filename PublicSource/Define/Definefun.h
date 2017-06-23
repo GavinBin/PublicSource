@@ -1,6 +1,4 @@
 
-#ifndef Define_fun.h
-#define Define_fun.h
 
 
 //设置View的tag属性

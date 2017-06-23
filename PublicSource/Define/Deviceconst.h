@@ -1,7 +1,5 @@
 
 
-#ifndef Device_const
-#define Device_const
 
 /**
  iPad Air {{0, 0}, {768, 1024}}
@@ -28,9 +26,6 @@
 /** 系统控件的默认高度 */
 #define IPHONE_STATUS_H   (20.f)
 #define IPHONE_NAV_H      (44.f)
-
-#define IPHONE_KEY_BOARD_H  (216.f)
-#define IPHONE_KEY_BOARD_H  (252.f)
 
 
 #define YC_IS_IOS6 (SYSTEM_VERSION >= 6.0 && SYSTEM_VERSION < 7)

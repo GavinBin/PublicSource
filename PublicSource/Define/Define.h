@@ -3,8 +3,9 @@
 #define Define.h
 
 
-#import "Define_fun.h"
-#import "Device_const.h"
+#import "Definefun.h"
+#import "Deviceconst.h"
 #import "Singleton.h"
 
 #endif
+
