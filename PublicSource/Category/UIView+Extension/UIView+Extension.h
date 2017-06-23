@@ -64,7 +64,7 @@
  *  @param  fontSize  内容的字体大小
  *  @param  fontColor  内容的字体颜色
  *  @param  backgroundColor  内容的背景颜色
- *  @param  Y轴上的坐标值 0~2
+ *  @param  coorY 0~2
  **/
 - (void)showSheetWithContent:(NSString *)content
                    fontSize:(NSInteger)fontSize
